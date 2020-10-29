@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-        "target": "ESNext",
+        "target": "esnext",
         "strict": true,
         "pretty": true,
         "removeComments": true,
@@ -8,7 +8,7 @@
         "experimentalDecorators": true,
         "esModuleInterop": true,
         "module": "CommonJS",
-        "lib": ["es2015"],
+        "lib": ["es2016"],
         "emitDecoratorMetadata": true,
         "moduleResolution": "node",
         "importHelpers": true,
