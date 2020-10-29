@@ -1,0 +1,1 @@
+#  Legnagyobb közös osztó (LNKO) meghatározása kivonásos és Euklideszi algoritmusokkal
