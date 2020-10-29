@@ -1,4 +1,4 @@
-#  Faktoriális meghatározása (VS Code - TypeScript - Jest)
+#  Faktoriális meghatározása - OOP (VS Code - TypeScript - Jest)
 
 ## Heroku teszt:
 nincs
